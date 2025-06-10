@@ -2,10 +2,6 @@
 
 Este é o repositório do meu portfólio pessoal, um site estático desenvolvido para apresentar minhas informações pessoais, projetos e interesses futuros.
 
-## Sobre o Projeto
-
-Este site foi criado para servir como uma vitrine digital, onde apresento minha trajetória, minhas habilidades e os projetos que estou desenvolvendo.
-
 O site possui as seguintes seções principais:
 
 - **Sobre Mim:** Apresentação pessoal, histórico e interesses.
